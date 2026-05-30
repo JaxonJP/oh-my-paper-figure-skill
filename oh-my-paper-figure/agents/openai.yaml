@@ -1,0 +1,4 @@
+interface:
+  display_name: "Oh My Paper Figure"
+  short_description: "Editable paper-figure redraws with fast and fine modes"
+  default_prompt: "Use $oh-my-paper-figure to recreate this paper figure as an editable PowerPoint diagram. Use fast mode unless I ask for fine mode or strict final-render QA."
