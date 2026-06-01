@@ -1,6 +1,6 @@
 ---
 name: oh-my-paper-figure
-description: Recreate academic paper figures, concept diagrams, architecture block diagrams, circuit-style schematics, algorithm flowcharts, and screenshots of technical diagrams as editable PowerPoint slides. Supports two explicit modes: fast mode for time/token-efficient redraws with strong visual fidelity, and fine mode for stricter final-PPTX render-and-compare QA when the user asks for higher completion quality or strict checking.
+description: "Recreate academic paper figures, concept diagrams, architecture block diagrams, circuit-style schematics, algorithm flowcharts, and screenshots of technical diagrams as editable PowerPoint slides. Supports two explicit modes: fast mode for time/token-efficient redraws with strong visual fidelity, and fine mode for stricter final-PPTX render-and-compare QA when the user asks for higher completion quality or strict checking."
 ---
 
 # Oh My Paper Figure
